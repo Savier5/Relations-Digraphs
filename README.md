@@ -6,6 +6,6 @@ The program uses boolean matrices (boolean[][]) to represent connections. It ite
 
 To improve readability, the program prints Matrix One, Matrix Two, and the Resulting Matrix in a structured format. It also includes labels (X and =) to visually indicate the multiplication process, making the output easier to follow. This project provides a simple and effective way to understand graph theory, adjacency matrices, and basic matrix operations in Java, serving as a practical application of discrete mathematics concepts.
 
-## Output:
+## Example Output:
 
 ![image](https://github.com/user-attachments/assets/f8ca3286-3fd5-48d8-9b2b-3eeafaeefcd1)
